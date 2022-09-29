@@ -4,10 +4,14 @@ id = 6f92134f-a244-4597-81c8-58add4a05102
 
 [relations.collections]
 rootDirectory = postman/collections
+files[] = {"id":"896503-8cdc577d-49f8-4ece-8710-f4defe570efb","path":"New Collection.json","metaData":{}}
 
 [relations.collections.metaData]
 
 [relations.apiDefinition]
 rootDirectory = postman/schemas
+files[] = {"path":"index.yaml","metaData":{}}
+files[] = {"path":"jjj.yaml","metaData":{}}
 
 [relations.apiDefinition.metaData]
+type = openapi:3
