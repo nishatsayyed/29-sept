@@ -8,12 +8,43 @@
 	"item": [
 		{
 			"name": "New Folder",
-			"item": [],
+			"item": [
+				{
+					"name": "New Request",
+					"id": "5def5cba-980c-4ed2-acb5-cc63081c5a7b",
+					"protocolProfileBehavior": {
+						"disableBodyPruning": true
+					},
+					"request": {
+						"method": "GET",
+						"header": [],
+						"url": {
+							"raw": ""
+						}
+					},
+					"response": []
+				}
+			],
 			"id": "20829752-d32e-4ec7-bae4-0a677e6034ca"
 		},
 		{
 			"name": "New Request here",
 			"id": "45914111-3d00-461b-8f04-36260b2b30f4",
+			"protocolProfileBehavior": {
+				"disableBodyPruning": true
+			},
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": ""
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "New Request",
+			"id": "8beb2cef-d6ea-4ee7-bbde-8a8de41a2d69",
 			"protocolProfileBehavior": {
 				"disableBodyPruning": true
 			},
