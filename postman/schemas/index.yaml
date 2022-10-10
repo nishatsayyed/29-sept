@@ -1,6 +1,6 @@
 openapi: 3.0.0
 info:
-  title: Zomato API
+  title: Zomato API changing in version
   description: "This is a Zomato RESTful API. It gives you the freshest and most exhaustive\
     \ restaurant content to power your applications with. It covers 1.5 million restaurants\
     \ across 10,000 cities globally.This RESTful API searches for restaurants by name,\
